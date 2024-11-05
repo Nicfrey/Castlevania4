@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="2048"
+   height="224"
+   viewBox="0 0 2048 224"
+   sodipodi:docname="ForegroundGround.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9614613"
+     inkscape:cx="525.65159"
+     inkscape:cy="114.68395"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="2048"
+       height="224"
+       preserveAspectRatio="none"
+       xlink:href="Foreground.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="m 274.39191,175.8316 5e-5,16.78341 -83.42896,0.0751 0.0375,-16.8585 z"
+       id="path230"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 418.29895,127.82416 -98.37842,-0.0848 -0.0423,16.43878 98.46315,-0.0848 z"
+       id="path328"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 384.01033,143.74174 0.11983,65.969 34.03306,-0.0599 -0.0599,-65.90909 z"
+       id="path330"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 447.64256,175.91735 98.56405,-0.0599 -0.11983,-16.05785 h -98.50414 z"
+       id="path332"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 256.37645,191.25836 0.0385,18.17983 -257.28492057,0.21749 0.0159316,-18.48624 z"
+       id="path334"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="M -0.42755959,224.18374 759.20331,224.04122 772.60018,206.51128 -0.28503973,206.79632 Z"
+       id="path336" />
+    <path
+       style="fill:#000000"
+       d="m 863.95541,206.79632 9.97639,17.10238 651.3158,0.14252 15.1071,-17.2449 z"
+       id="path338"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 1630.4272,205.51364 10.9741,18.38506 h 407.0367 l -1e-4,-18.38506 z"
+       id="path340"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

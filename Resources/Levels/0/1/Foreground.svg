@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg181"
+   width="1025"
+   height="192"
+   viewBox="0 0 1025 192"
+   sodipodi:docname="Foreground.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs185" />
+  <sodipodi:namedview
+     id="namedview183"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.3988325"
+     inkscape:cx="533.17604"
+     inkscape:cy="100.88241"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g187" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g187">
+    <image
+       width="1025"
+       height="192"
+       preserveAspectRatio="none"
+       xlink:href="../../../../../SpriteTester/Resources/FirstBlock/ForegroundFirstBlock.png"
+       id="image189" />
+    <path
+       style="fill:#000000"
+       d="m 639,193 0,-33 H 0 v 33 z"
+       id="path350" />
+    <path
+       style="fill:#000000"
+       d="m 320,80 95,0 0,-16 -95,-10e-7 z"
+       id="path406"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 735,144 -63,0 0,15 63,0 z"
+       id="path457"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 767.67909,143 260,0 0,15 -260,0 z"
+       id="path459"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
